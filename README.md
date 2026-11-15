@@ -1,5 +1,6 @@
 # Distilling an LLM into a tiny finance sentiment model
-![demo link](https://52b99d5db0279d92b5.gradio.live/)
+[demo link](https://52b99d5db0279d92b5.gradio.live/)
+
 Using Claude as a "teacher" to label 600 financial news sentences, then trained a
 small model (MiniLM embeddings + logistic regression) only on those labels.
 
