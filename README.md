@@ -11,7 +11,7 @@ small model (MiniLM embeddings + logistic regression) only on those labels.
 | Student (LLM labels) | 0.825 | 0.829 | 1.601 |
 | Student (human labels) | 0.870 | 0.871 | 1.601 |
 
-![results](results.png)
+![results](res.png)
 
 ## Takeaway
 The student reached roughly 82% of the teacher's accuracy while running 500x faster, at
